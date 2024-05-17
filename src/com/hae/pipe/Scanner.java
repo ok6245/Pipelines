@@ -520,6 +520,7 @@ public class Scanner implements PipeConstants {
 		registerStage("notlocate", NLocate.class);
 		registerStage("query", Query.class, 1);
 		registerStage("reverse", Reverse.class);
+		registerStage("sort", Sort.class, 4);
 		registerStage("specs", Specs.class, 4);
 		registerStage("split", Split.class);
 		registerStage("stem", Stem.class);
