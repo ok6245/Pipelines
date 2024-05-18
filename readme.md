@@ -59,6 +59,7 @@ The list below gives a taste for which stages have been implemented:
 * NOT
 * QUERY
 * REVERSE
+* SORT
 * SPECS
 * SPLIT
 * STRLITERAL
